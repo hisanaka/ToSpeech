@@ -3,7 +3,7 @@ ToSpeech
 
 # Overview
 
-This is the sample app for receive the intent send by logbar Ring app.
+This app is a sample that works using the logbar Ring apps with intent.
 
 # Description
 
