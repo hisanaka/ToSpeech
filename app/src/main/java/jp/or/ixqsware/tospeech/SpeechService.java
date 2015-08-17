@@ -4,8 +4,6 @@ import android.app.Service;
 import android.content.Intent;
 import android.os.IBinder;
 import android.speech.tts.TextToSpeech;
-import android.text.format.DateFormat;
-import android.util.Log;
 import android.widget.Toast;
 
 import java.util.Calendar;

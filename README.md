@@ -1,13 +1,15 @@
 ToSpeech
 ===
 
+日本語の説明は[こちら](https://github.com/hisanaka/ToSpeech/blob/master/README.ja.md)
+
 # Overview
 
-This app is a sample that works using the logbar Ring apps with intent.
+This app is a sample to work with Ring app by logbar Inc. using intent.
 
 # Description
 
-This app guide the time by voice when receiving the intent which send from logbar Ring app.
+This app guide the time by voice when receiving the intent, that send from Ring app by logbar Inc. with the registered gesture.
 
 # Usage
 
@@ -19,11 +21,11 @@ This app guide the time by voice when receiving the intent which send from logba
 
 ## Setting of Text To Speech.
 
-1. Open Settings > Language & input > Text-to-speech output > Preferred engine.
+1. Open "Settings > Language & input > Text-to-speech output > Preferred engine".
 
-1. Selct English or Japanese.
+1. Select English or Japanese.
 
-1. Install English Or Japanese voice data.
+1. Install English Or Japanese voice data via "Install voice data".
 
 ## This App
 
