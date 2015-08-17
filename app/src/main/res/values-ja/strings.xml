@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToSpeech</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">設定</string>
+    <string name="speech_label">Speech</string>
+    <string name="guidance_text">%1$s %2$d時%3$d分です</string>
+    <string name="am_label">午前</string>
+    <string name="pm_label">午後</string>
+</resources>
