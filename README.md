@@ -9,15 +9,9 @@ This app is a sample to work with Ring app by logbar Inc. using intent.
 
 # Description
 
-This app guide the time by voice when receiving the intent, that send from Ring app by logbar Inc. with the registered gesture.
+This app guide the time or wether forecast by voice when receiving the intent, that send from Ring app by logbar Inc. with the registered gesture.
 
 # Usage
-
-## Setting of Ring app by logbar inc.
-
-1. Add action "Send Intent".
-
-1. Input "jp.or.ixqsware.tospeech.action.TIME_SPEECH" to "Action Name".
 
 ## Setting of Text To Speech.
 
@@ -27,6 +21,22 @@ This app guide the time by voice when receiving the intent, that send from Ring 
 
 1. Install English Or Japanese voice data via "Install voice data".
 
+## Setting of Ring app by logbar inc.
+
+1. Add action "Send Intent".
+
+1. Submit your favorite gesture.
+
+1. Input "jp.or.ixqsware.tospeech.action.SPEECH" to "Action Name".
+
+1. Input "content" to "Extra key".
+
+1. Input "time" for time signal, or "weather" for weather forecast to "Extra value".
+
 ## This App
 
 1. Install this app.
+
+## Remarks
+
+If you want to use the weather forecast, you need to the location of your terminal to "ON".

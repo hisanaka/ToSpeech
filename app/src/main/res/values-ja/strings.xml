@@ -6,4 +6,25 @@
     <string name="guidance_text">%1$s %2$d時%3$d分です</string>
     <string name="am_label">午前</string>
     <string name="pm_label">午後</string>
+
+    <string name="time_label">時刻</string>
+    <string name="weather_label">天気</string>
+
+    <string name="weather_unknown">不明</string>
+    <string name="weather_clear_sky">晴れ</string>
+    <string name="weather_few_clouds">薄曇り</string>
+    <string name="weather_scattered_clouds">日が差す</string>
+    <string name="weather_broken_clouds">曇り</string>
+    <string name="weather_shower_rain">にわか雨</string>
+    <string name="weather_rain">雨</string>
+    <string name="weather_thunderstorm">雷雨</string>
+    <string name="weather_snow">雪</string>
+    <string name="weather_mist">霧</string>
+
+    <string name="forecast_guidance">
+        %1$sの現在の天気は%2$s、気温は%3$d度。これからの天気は%5$s、今日の予想最高気温は%4$d度でしょう。
+    </string>
+    <string name="failed_to_get_forecast">天気予報の取得に失敗しました。</string>
+    <string name="error_result">エラーが発生しました。</string>
+    <string name="failed_to_get_location">現在地の取得に失敗しました。</string>
 </resources>

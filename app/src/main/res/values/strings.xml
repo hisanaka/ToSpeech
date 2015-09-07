@@ -6,4 +6,25 @@
     <string name="guidance_text">It\'s %2$d %3$d %1$s</string>
     <string name="am_label">AM</string>
     <string name="pm_label">PM</string>
+
+    <string name="time_label">Time</string>
+    <string name="weather_label">Weather</string>
+
+    <string name="weather_unknown">Unknown</string>
+    <string name="weather_clear_sky">Clear sky</string>
+    <string name="weather_few_clouds">Few Clouds</string>
+    <string name="weather_scattered_clouds">Scattered clouds</string>
+    <string name="weather_broken_clouds">Broken clouds</string>
+    <string name="weather_shower_rain">Shower rain</string>
+    <string name="weather_rain">Rain</string>
+    <string name="weather_thunderstorm">Thunderstorm</string>
+    <string name="weather_snow">Snow</string>
+    <string name="weather_mist">Mist</string>
+
+    <string name="forecast_guidance">
+        %1$s weather is %2$s, %3$d degree. The weather forecast is %5$s, and expected maximum temperature is %4$d degree.
+    </string>
+    <string name="failed_to_get_forecast">Failed to get the weather forecast.</string>
+    <string name="error_result">Error occurred.</string>
+    <string name="failed_to_get_location">Failed to get the current location.</string>
 </resources>
