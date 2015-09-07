@@ -3,6 +3,8 @@ ToSpeech
 
 日本語の説明は[こちら](https://github.com/hisanaka/ToSpeech/blob/master/README.ja.md)
 
+APK file for the operation check [here](https://github.com/hisanaka/ToSpeech/blob/master/app/app-debug.apk)
+
 # Overview
 
 This app is a sample to work with Ring app by logbar Inc. using intent.

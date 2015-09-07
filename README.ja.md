@@ -1,6 +1,8 @@
 ToSpeech
 ===
 
+動作確認用のAPKファイルは[こちら](https://github.com/hisanaka/ToSpeech/blob/master/app/app-debug.apk)
+
 # 概要
 
 このアプリはlogbar Ringアプリとインテントを使用して連携するサンプルアプリです。
